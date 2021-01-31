@@ -11,6 +11,6 @@ you will find me on <a href="https://www.facebook.com/anas.abdelnapi">facebook</
 | :------------- | :----------: 
 |  lab02a | [lab02a read](lab02a)
 |  read03 | [03 read](read03)
-|  lab02a | [lab02a read](lab02a)
-|  lab02a | [lab02a read](lab02a)
-|  lab02a | [lab02a read](lab02a)
+|  read04 | [04 read](read04)
+|  read05| [05 read](read05)
+|  read06 | [06 read](read06)
